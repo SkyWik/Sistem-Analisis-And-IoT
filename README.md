@@ -1,4 +1,4 @@
-## Arsitektur Sistem
+## Tentang
 Tugas Sesi 1 Internet of Things, Menggunakan Node.js, Mqtt, sqlite, Python.
 
 ## Cara Penggunaan
